@@ -100,7 +100,7 @@ es clave para entender cómo están ordenados.
     mayor a menor escala: Período, Época, Eón, Era.
 
 2.  **Ejercicio 3.2:** Identifica los Períodos que abarcan la historia
-    geológica de RD, selecciona dos Épocas que contentan rocas de RD,
+    geológica de RD, selecciona dos Épocas que contengan rocas de RD,
     indicando qué rocas son (Formación, descripción) y en que lugar o
     lugares del país se encuentran.
 
