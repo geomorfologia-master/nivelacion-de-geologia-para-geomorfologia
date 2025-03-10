@@ -3,7 +3,7 @@ Geomorfología<small><br>Geomorfología (GEO-114)<br>Universidad Autónoma
 de Santo Domingo (UASD)<br>Semestre 2025-01</small>
 ================
 El Tali
-2025-02-03
+2025-03-10
 
 Versión HTML (quizá más legible),
 [aquí](https://geomorfologia-master.github.io/nivelacion-de-geologia-para-geomorfologia/README.html)
@@ -53,6 +53,8 @@ influyen en la resistencia y el modelado del paisaje.
 
 3.  **Ejercicio 1.3:** Elige una de las rocas mostradas en clase, y
     descríbela en un párrafo, indicando su relevancia geomorfológica.
+    Las rocas mostradas en el aula fueron caliza, tonalita, arenisca,
+    basalto y mármol.
 
 ------------------------------------------------------------------------
 
